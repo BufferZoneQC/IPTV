@@ -5,6 +5,8 @@
 #EXTINF:-1,======== Barry Bee - IPTV de TVZON ========
 
 #EXTINF:-1,======== TVZON-CA ========
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2019/03/51c02883ca0c28e47a758716e21f29c43ca6f5d753f75b9c9a950109693eea95.jpeg" group-title="*TVZON",CA | Addik TV
+http://185.93.1.39/FRCH_addikTV_HD_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/1200px-CanalD.svg.png" group-title="*TVZON",CA | Canal D
 http://185.93.1.39/FRCH_CANAL_D_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalvie.com/img/canalvie/logo/logo-canalvie.png" group-title="*TVZON",CA | Canal Vie
@@ -21,10 +23,16 @@ http://185.93.1.39/FRCH_RDI_CA/index.m3u8
 http://185.93.1.39/FRCH_INVESTIGATION_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/LCN_%28logo%2C_2020%29.svg/1200px-LCN_%28logo%2C_2020%29.svg.png" group-title="*TVZON",CA | LCN
 http://185.93.1.39/FRCH_LCN_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2020/05/NOOVO_DegradeBleu_RVB.png?fit=clip&w=500&h=500&crop=faces&q=75" group-title="*TVZON",CA | Noovo
+http://185.93.1.39/FRCH_V_MONTREAL_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rdsimages.cookieless.ca/polopoly_fs/1.7375273!/img/httpImage/image.png" group-title="*TVZON",CA | RDS
 http://185.93.1.39/FRCH_RDS_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rdsimages.cookieless.ca/polopoly_fs/1.7375273!/img/httpImage/image.png" group-title="*TVZON",CA | RDS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rds2.png?fit=clip&w=500&h=500&crop=faces&q=75" group-title="*TVZON",CA | RDS 2
 http://185.93.1.39/FRCH_RDS_2_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/1200px-Rds_info.svg.png" group-title="*TVZON",CA | RDS Info
+http://185.93.1.39/FRCH_RDS_INFO_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d3fgqmmhgv8ngq.cloudfront.net/sites/default/files/savoir.media_.jpg" group-title="*TVZON",CA | Savoir.média
+http://185.93.1.39/FRCH_CANAL_SAVOIR_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2018/07/series.png" group-title="*TVZON",CA | Série+
 http://185.93.1.39/FRCH_SERIES_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Super_%C3%89cran_logo.png" group-title="*TVZON",CA | Super Écran 1
@@ -35,18 +43,29 @@ http://185.93.1.39/FRCH_SUPER_ECRAN_2_CA/index.m3u8
 http://185.93.1.39/FRCH_SUPER_ECRAN_3_CA/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Super_%C3%89cran_logo.png" group-title="*TVZON",CA | Super Écran 4
 http://185.93.1.39/FRCH_SUPER_ECRAN_4_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Logo_de_T%C3%A9l%C3%A9magino.jpg" group-title="*TVZON",CA | Télémagino
+http://185.93.1.39/FRCH_Telemagino_HD_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/1200px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="*TVZON",CA | Télé-Québec
+http://185.93.1.39/FRCH_TELE_QUEBEC_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1f/Teletoon_2011.png" group-title="*TVZON",CA | Télétoon
+http://185.93.1.39/FRCH_TELE_TOON_FRENCH_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m1.quebecormedia.com/static/tva_logo_color-01b1abdb966b427797c95d47c0f3376b.png" group-title="*TVZON",CA | TVA Québec
 http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://25stanley.com/wp-content/uploads/2013/11/tva-sports-logo.jpg" group-title="*TVZON",CA | TVA Sports
 http://185.93.1.39/FRCH_TVA_SPORTS_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://25stanley.com/wp-content/uploads/2013/11/tva-sports-logo.jpg" group-title="*TVZON",CA | TVA Sports 2
+http://185.93.1.39/FRCH_TVA_Sports_2_HD_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TVO_logo_as_of_2008.svg/220px-TVO_logo_as_of_2008.svg.png" group-title="*TVZON",CA | TVO
 http://185.93.1.39/FRCH_TVO_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_VRAK.png" group-title="*TVZON",CA | Vrak TV
-http://185.93.1.39/FRCH_V_MONTREAL_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_VRAK.png" group-title="*TVZON",CA | Vrak
+http://185.93.1.39/FRCH_Vrak_HD_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Yoopa.svg/1200px-Logo_Yoopa.svg.png" group-title="*TVZON",CA | Yoopa
 http://185.93.1.39/FRCH_YOOPA_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ztele.com/img/ztele2014/logo/Z_2014_200.jpg" group-title="*TVZON",CA | Z Télé
 http://185.93.1.39/FRCH_CANAL_Z_HD_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="*TVZON",CA | Zeste
+http://185.93.1.39/FRCH_ZESTE_CA/index.m3u8
+
 
 #EXTINF:-1,======== TVZON-FR ========
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1115165244744261632/1MIU6jXq.png" group-title="*TVZON",FR | Arte
