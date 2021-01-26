@@ -2,11 +2,6 @@
  
 #EXTINF:-1,======== Liste de xBuck74 dernière mise à jour 2021-01-25 ========
 
-#EXTINF:-1,======== UFC ========
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kindpng.com/picc/m/144-1447229_logo-png-ufc-logo-transparent-png.png" group-title="UFC",UFC USA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
-
 #EXTINF:-1,======== Barry Bee - IPTV de TVZON ========
 
 #EXTINF:-1,======== TVZON-CA ========
@@ -269,17 +264,22 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
 
 
-#EXTINF:-1,======== Fight ========
+#EXTINF:-1,======== FIGHT ========
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CombatGo_240x240.png?raw=true" group-title="Fight",USA | Combat Go
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kindpng.com/picc/m/144-1447229_logo-png-ufc-logo-transparent-png.png" group-title="FIGHT",UFC USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="FIGHT",FIGHT NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CombatGo_240x240.png?raw=true" group-title="FIGHT",USA | Combat Go
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports MMA" tvg-logo="https://www.digitaltveurope.com/files/2014/08/Fight-Sports.png" group-title="Fight",Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports MMA" tvg-logo="https://www.digitaltveurope.com/files/2014/08/Fight-Sports.png" group-title="FIGHT",Fight Sports
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FightBox" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="Fight",USA | FightBox
+#EXTINF:-1 tvg-id="" tvg-name="FightBox" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="FIGHT",USA | FightBox
 http://ott-cdn.ucom.am/s86/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Fighting Spirit: Fighting Rookies" tvg-logo="https://fighting.fr/wp-content/uploads/2019/11/fs-fb.jpg" group-title="Fight",USA | Fighting Spirit
+#EXTINF:-1 tvg-id="" tvg-name="Fighting Spirit: Fighting Rookies" tvg-logo="https://fighting.fr/wp-content/uploads/2019/11/fs-fb.jpg" group-title="FIGHT",USA | Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="Fight", ES | Fight Time
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="FIGHT", ES | Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8 
 
 
