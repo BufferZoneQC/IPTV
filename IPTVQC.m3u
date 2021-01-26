@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1,======== Liste de xBuck74 dernière mise à jour 2021-01-24 ========
+#EXTINF:-1,======== Liste de xBuck74 dernière mise à jour 2021-01-25 ========
 
 #EXTINF:-1,======== Barry Bee - IPTV de TVZON ========
 
@@ -208,116 +208,6 @@ https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
 
 
 
-#EXTINF:-1,======== FRANCE ========
-
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1051.png" group-title="France",Alsace 20
-http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/BFM_Business_logo_2016.svg/1024px-BFM_Business_logo_2016.svg.png" group-title="France",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="France",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/0/1504135039/6874.png" group-title="France",C star
-http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/a1/1c/4b/a11c4b49-e707-329b-2098-9fe531ba690f/source/60x60bb.jpg" group-title="France",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.coeurlavande.fr/images/dicitv.jpg" group-title="France",Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/emcitv.png?raw=true"  group-title="France",EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875646402247901184/N4GGER3R_400x400.jpg"  group-title="France",France 24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
-#EXTINF:-1 tvg-shift="1" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/GONG_TV_2009.png/revision/latest?cb=20150312084735" group-title="France",GONG (416x234)
-http://51.254.215.79/appflux/gong/playlist.m3u8
-#EXTINF:-1 tvg-shift="1" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/GONG_TV_2009.png/revision/latest?cb=20150312084735" group-title="France",GONG (640x360)
-http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-#EXTINF:-1 tvg-shift="1" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/GONG_TV_2009.png/revision/latest?cb=20150312084735" group-title="France",GONG (1280x720)
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://vignette.wikia.nocookie.net/logos/images/7/7a/Gong_max_logo.png/revision/latest/scale-to-width-down/200?cb=20160625145259&path-prefix=fr" group-title="France",GONG MAX (640x360)
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_0640/chunks.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://vignette.wikia.nocookie.net/logos/images/7/7a/Gong_max_logo.png/revision/latest/scale-to-width-down/200?cb=20160625145259&path-prefix=fr" group-title="France",GONG MAX (1280x720)
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u
-#EXTINF:-1 tvg-id="Gulli FR" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli
-https://s1.tntendirect.com/gulli/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1115175445052428289/dmqW4yun_400x400.png" group-title="France",LCI
-https://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_2000000.m3u8?st=9Ako_eASts7sd1vzgx5anw&e=1556924975
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694933688203747328/dexDnVhH.jpg" group-title="France",mycomedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1810342054_b1928000.m3u8
-#EXTINF:-1 tvg-id="MYTV-TV" tvg-name="MYTV" tvg-language="French" tvg-country="CM" tvg-logo="https://i.imgur.com/jOE4ur6.png"  group-title="France",MYTV Chanel
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-#EXTINF:-1 group-title="France" tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwBt7VyAD7XF90ZR3KCIItF9W3Ef5XX9XBhVzCZJBcurHK8AR-",RMC INFO TALK SPORT 
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1 tvg-id="RMC SPORT 3" group-title="France" tvg-l ogo="https://pbs.twimg.com/profile_images/1013705795035385856/OwVW1i8R_400x400.jpg",RMC SPORT 3 
-http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58 
-#EXTINF:-1 tvg-id="RMC SPORT 3" group-title="France" tvg-l ogo="https://pbs.twimg.com/profile_images/1013705795035385856/OwVW1i8R_400x400.jpg",RMC SPORT 3 HD 
-http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63 
-#EXTINF:-1 tvg-id="RMC SPORT 3" group-title="France" tvg-l ogo="https://pbs.twimg.com/profile_images/1013705795035385856/OwVW1i8R_400x400.jpg",RMC SPORT 3 FHD 
-http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/69 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l799_LyER2_g38DHkDp5oXUXZFYnTxAT0t6KWA=s900-c-k-c0xffffffff-no-rj-mo" group-title="France",RT France
-http://rt-france.secure.footprint.net/1107.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="France",Télétoon +
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1225089595878100992/MMgZuW4C.jpg" group-title="France",TFX
-https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1225089726773964802/r5U7XIxU_400x400.jpg" group-title="France",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1225089726773964802/r5U7XIxU_400x400.jpg" group-title="France",TF1 HD
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_2000000.m3u8
-#EXTINF:0 tvg-name="TF1 Series films" tvg-language="French" tvg-country="FR" tvg-id="tf1-series-films" tvg-logo="https://i.imgur.com/ie5zO7i.png"  group-title="France", TF1 Series films
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1967993454/TV3V_logo1_2008.jpg" group-title="France",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France", TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France", TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bo-apac.tv5monde.com/sites/default/files/styles/x_large/public/2020-06/logo-asie-pacifique_instagram_0.jpg?itok=QeUJr5i7" group-title="France",TV5 MONDE Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.actu-france.com/wp-content/uploads/2015/04/TV5-Monde-Style-HD.jpg" group-title="France",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/ueU1-Uf0-gY6ktpgJ3GE6wfcaG05ud8a6plswApnT9xiP0nKqQZICLAoo6eEJkFO4w0=s180-rw" group-title="France",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="France",TVpi
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7SeDF2eX9jA/Vk1mRVcDSHI/AAAAAAAAAvc/SnlZjuVmNHU/s1600/tv-francophonie.jpg" group-title="France",TV-Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7SeDF2eX9jA/Vk1mRVcDSHI/AAAAAAAAAvc/SnlZjuVmNHU/s1600/tv-francophonie.jpg" group-title="France",TV MANA
-http://c2.manasat.com:1935/eglise-online/frances2/playlist.m3u8
-
-
-
-#EXTINF:-1,======== BELGIQUE ========
-
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Antenne Centre" tvg-logo="https://i.ibb.co/j8Ygd1k/Antenne-Centre.png" tvg-country="BE" group-title="Belgique",https://2.bp.blogspot.com/-7SeDF2eX9jA/Vk1mRVcDSHI/AAAAAAAAAvc/SnlZjuVmNHU/s1600/tv-francophonie.jpg,Antenne Centre
-https://tvl-live-prp.fl.freecaster.net/live/actv/actv.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="BX1" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Belgique",BX1
-https://59959724487e3.streamlock.net/stream/live/chunklist_w1820098040.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="CanalAlpha" tvg-logo="http://www.canalalpha.ch/wp-content/uploads/2012/12/logo-canalalpha-blanc.png" group-title="Belgique",CanalAlpha
-https://edge4.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1090298739_b2500000.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Canal Zoom" tvg-logo="https://i2.wp.com/www.canalzoom.be/wp-content/uploads/cropped-canalzoom_logo_couleur_V2.png" group-title="Belgique",Canal Zoom
-http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist_w857378252_b2096000_slfra_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Canal C" tvg-logo="https://www.canalc.be/wp-content/uploads/CanalC_Blanc_Transparent_pour-fond-sombre-3.png" group-title="Belgique",Canal C
-https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w1160503303.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="MA Télé" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" group-title="Belgique",MA Télé
-https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1148376481.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="NRJ Hits TV" tvg-logo="https://i.ibb.co/1ZvzXWP/NRJ-Hits.png" group-title="Belgique",NRJ Hits TV
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Belgique",LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="RTBF La Trois" tvg-logo="https://www.static.rtbf.be/rtbf/www/images/rtbf-logo-white.png" group-title="Belgique",RTBF La Trois
-https://rtbf.l3.freecaster.net/live/rtbf/geo/open/28f7277cdd5c10567637ec1c10d59eda5b443c9e/latrois-audio_1=128000-video=2000000.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Tv Com" tvg-logo="https://www.tvcom.be/files/images/logotvcom.png"group-title="Belgique",Tv Com
-https://5a0b00d270652.streamlock.net/live/tvcom-live/chunklist_w396605632.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="TV Lux" tvg-logo="https://www.tvlux.be/images/logo-TVLux-Naturellement-Proche-2017.png" group-title="Belgique",TV Lux
-https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=5200000.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Télé MB" tvg-logo="https://www.telemb.be/sites/telemb.easydev.be/files/telemb_logo.png" group-title="Belgique",Télé MB
-https://tvl-live-prp.fl.freecaster.net/live/telemb/telemb-audio_fre=128000-video=2500000.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Telesambre" tvg-logo="https://www.telesambre.be/sites/telesambre.easydev.be/files/logotls.png" group-title="Belgique",Telesambre
-https://tvl-live-prp.fl.freecaster.net/live/telesambre/telesambre-audio_fre=128000-video=2600000.m3u8
-#EXTINF:-1 tvg-id="Belgique" tvg-name="Vedia" tvg-logo="https://www.vedia.be/www/files/images/logoVedia.png" group-title="Belgique", Vedia
-https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=5200000.m3u8
-
-
-
 #EXTINF:-1,======== USA ========
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="USA",ABC News D-0 (Main)
@@ -498,6 +388,215 @@ https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Sports",Olympic Ch 12
 https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
 
+
+
+#EXTINF:-1,======== NHL ========
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-4
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1161
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-6
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-7
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-16
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-17
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1148
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-18
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-19
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-20
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png" group-title="NHL",NHL-21
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1144
+
+
+
+#EXTINF:-1,======== NFL ========
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/3uolHRarJUv0vdghg0ahPSLc8hw=/1660x934/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/WT4M4XZPFNMDWBIHZPEUSLFKMI.jpg" group-title="NFL",NFL NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.blog.tdstelecom.com/wp-content/uploads/2019/09/Nfl_red_zone.jpg" group-title="NFL",NFL REDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vpn-services.bestreviews.net/wp-content/uploads/sites/13/nfl-gamepass-logo.png" group-title="NFL",NFL GAMEPASS REDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 01
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 02
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 03
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 04
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 05
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 06
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 07
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 08
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 09
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/752
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" group-title="NFL",NFL GAMEPASS 15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/608
+
+
+
+#EXTINF:-1,======== MLB ========
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="MLB",MLB NETWORKS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 725
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/575
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 726
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 727
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 728
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/578
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 729
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 730
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 731
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 732
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 733
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/583
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 734
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 735
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 736
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 737
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 738
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 739
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 740
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 742
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 744
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 746
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 720
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/570
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 721
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 722
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/572
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 723
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="MLB",MLB 724
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/574
+
+
+
+#EXTINF:-1,======== NBA ========
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.insidebasket.com/news/uploads/nba.jpg" group-title="NBA",NBA HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1141
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-4
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1139
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1138
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-6
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1137
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-7
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1135
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1129
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-16
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1127
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-17
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-18
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-19
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-20
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1175
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-21
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-22
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1173
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-23
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-24
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-25
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-26
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-27
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-28
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-29
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1166
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2019/03/5c895f4b090b0.png" group-title="NBA",NBA-30
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1165
 
 
 #================================================================================================================================================================================================================================================================================================================================================================* 
