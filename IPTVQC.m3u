@@ -114,14 +114,6 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="CANADA FRANCAIS"",TCM television
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w893346968.m3u8
-#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://yt3.ggpht.com/-lLgIkal0RIc/AAAAAAAAAAI/AAAAAAAAAAA/27AoksHWuAU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANADA FRANCAIS",Télé-Québec (480x270)
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_3/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://yt3.ggpht.com/-lLgIkal0RIc/AAAAAAAAAAI/AAAAAAAAAAA/27AoksHWuAU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANADA FRANCAIS",Télé-Québec (640x360)
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://yt3.ggpht.com/-lLgIkal0RIc/AAAAAAAAAAI/AAAAAAAAAAA/27AoksHWuAU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANADA FRANCAIS",Télé-Québec (960x540)
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleQuebec.ca" tvg-logo="https://yt3.ggpht.com/-lLgIkal0RIc/AAAAAAAAAAI/AAAAAAAAAAA/27AoksHWuAU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANADA FRANCAIS",Télé-Québec (1280x720)
-https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://m1.quebecormedia.com/static/tva_logo_color-01b1abdb966b427797c95d47c0f3376b.png" group-title="CANADA FRANCAIS", TVA HD
 https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
 #EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://m1.quebecormedia.com/static/tva_logo_color-01b1abdb966b427797c95d47c0f3376b.png" group-title="CANADA FRANCAIS", TVA FullHD
