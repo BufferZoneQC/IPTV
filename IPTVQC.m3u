@@ -258,7 +258,7 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1,======== FIGHT ========
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kindpng.com/picc/m/144-1447229_logo-png-ufc-logo-transparent-png.png" group-title="FIGHT",UFC USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="FIGHT",UFC USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="FIGHT",FIGHT NETWORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
