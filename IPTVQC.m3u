@@ -288,6 +288,9 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://audiovision.de/wp-content/uploads/2019/11/edge-sport.jpg" group-title="Sports",USA | EDGEsport 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports", USA | GOLF NETWORK
+http://203.162.235.41:16924
+
 
 
 #EXTINF:-1,======== Olympics ========
