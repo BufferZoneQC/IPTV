@@ -1,6 +1,34 @@
 #EXTM3U
  
-#EXTINF:-1,======== Liste de xBuck74 dernière mise à jour 2021-01-25 ========
+#EXTREM: xBuck74
+#EXTREM:	2021-02-05
+
+
+
+#EXTINF:-1,========  *CBS ========
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS NY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS NEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS MIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS PENN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS SN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS CHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS KPIX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS HOUSTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS TEXAS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS LA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
+
+
 
 #EXTINF:-1,======== Barry Bee - IPTV de TVZON ========
 
