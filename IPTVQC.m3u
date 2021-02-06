@@ -321,6 +321,8 @@ http://203.162.235.41:16924
 
 
 
+
+
 #EXTINF:-1,======== PPV  ========
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d3ciwvs59ifrt8.cloudfront.net/374a5424-e68e-45ec-bc44-501a05c0a77c/c716fe41-c0f4-4c58-96ba-b980be362994.png" group-title="PPV",PPV 1
@@ -333,6 +335,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://image.shutterstock.com/image-vector/ppv-pay-per-view-acronym-260nw-1660820458.jpg
 
 #EXTINF:-1,======== Olympics ========
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Olympics",OLYMPIC CHANNEL HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Olympics",CBC Olympics (Geo-CA) HD
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
