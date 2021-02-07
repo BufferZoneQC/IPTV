@@ -7,7 +7,7 @@
 
 #EXTINF:-1,======== *SuperBowl ========
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",Stream
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Super_Bowl_LV.png/240px-Super_Bowl_LV.png"  group-title="*SuperBowl",Stream
 http://unranged.net:8080/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS NY
@@ -30,13 +30,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS LA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS Sports Network HD
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Super_Bowl_LV.png/240px-Super_Bowl_LV.png"  group-title="*SuperBowl",CBS Sports Network HD
 http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16851.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS Sports HQ
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Super_Bowl_LV.png/240px-Super_Bowl_LV.png"  group-title="*SuperBowl",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CTV HD
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Super_Bowl_LV.png/240px-Super_Bowl_LV.png"  group-title="*SuperBowl",CTV HD
 http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16820.ts
 
 
