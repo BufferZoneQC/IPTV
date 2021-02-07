@@ -30,6 +30,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS LA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS Sports Network HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16851.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CTV HD
 http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16820.ts
