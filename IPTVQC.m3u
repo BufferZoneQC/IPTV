@@ -5,28 +5,34 @@
 
 
 
-#EXTINF:-1,========  *CBS ========
+#EXTINF:-1,======== *SuperBowl ========
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS NY
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",Stream
+http://unranged.net:8080/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS NY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS NEWYORK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS NEWYORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/497
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS MIAMI
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS MIAMI
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS PENN
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS PENN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/499
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS SN
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS SN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS CHICAGO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS CHICAGO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/492
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS KPIX
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS KPIX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS HOUSTON
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS HOUSTON
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS TEXAS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS TEXAS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/493
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="*CBS",CBS LA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CBS LA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="*SuperBowl",CTV HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16820.ts
 
 
 
