@@ -11,7 +11,7 @@
 http://unranged.net:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="*SuperBowl",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png" group-title="*SuperBowl",CBS Sports Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/12/cbs-sports-app-logo.png" group-title="*SuperBowl",CBS Sports Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rdsimages.cookieless.ca/polopoly_fs/1.7375273!/img/httpImage/image.png" group-title="*SuperBowl",RDS
 http://185.93.1.39/FRCH_RDS_CA/index.m3u8
@@ -320,7 +320,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",SPORTSMAN CHANNEL
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png" group-title="Sports",CBS Sports Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/12/cbs-sports-app-logo.png" group-title="Sports",CBS Sports Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",GOLF NETWORK
