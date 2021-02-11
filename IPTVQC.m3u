@@ -24,8 +24,6 @@ http://185.93.1.39/FRCH_Frissons_TV_HD_CA/index.m3u8
 http://185.93.1.39/FRCH_Historia_HD_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radio-canada.ca/w_1400,h_1400/v1/auto-promo/promo-marques/perso/ici-rdi-logo-1400.png" group-title="*TVZON",CA | ici RDI
 http://185.93.1.39/FRCH_RDI_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.investigationtele.com/polopoly_fs/1.1354595.1567539347!/image/Investigation_626x352.jpg_gen/derivatives/nclandscape_626_352/Investigation_626x352.jpg" group-title="*TVZON",CA | Investigation
-http://185.93.1.39/FRCH_INVESTIGATION_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/LCN_%28logo%2C_2020%29.svg/1200px-LCN_%28logo%2C_2020%29.svg.png" group-title="*TVZON",CA | LCN
 http://185.93.1.39/FRCH_LCN_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2020/05/NOOVO_DegradeBleu_RVB.png?fit=clip&w=500&h=500&crop=faces&q=75" group-title="*TVZON",CA | Noovo
@@ -79,10 +77,6 @@ http://185.93.1.39/FRCH_ZESTE_CA/index.m3u8
 http://185.93.1.39/FRCH_ARTE_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/cine-emotion.png" group-title="*TVZON",FR | Ciné+ Émotion
 http://185.93.1.39/FRCH_Cine_Plus_Emotion_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://more.blue.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusFamiz-1.png" group-title="*TVZON",FR | Ciné+ Famiz
-http://185.93.1.39/FRCH_Cine_Plus_Famiz_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalplus.ch/wp-content/uploads/2018/07/cinefrisson-2019-rvb-300x161.png" group-title="*TVZON",FR | Ciné+ Frisson
-http://185.93.1.39/FRCH_Cine_Plus_Frisson_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/6804E1E7DDE-DCD7-EB1A-F03490EBA80C20B2.jpg" group-title="*TVZON",FR | Discovery Channel
 http://185.93.1.39/FRCH_Discovery_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/890679019758342144/t1ifF4LF_400x400.jpg" group-title="*TVZON",FR | Discovery Investigation
