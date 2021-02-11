@@ -85,6 +85,10 @@ http://185.93.1.39/FRCH_Cine_Plus_Famiz_HD/index.m3u8
 http://185.93.1.39/FRCH_Cine_Plus_Frisson_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/6804E1E7DDE-DCD7-EB1A-F03490EBA80C20B2.jpg" group-title="*TVZON",FR | Discovery Channel
 http://185.93.1.39/FRCH_Discovery_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/890679019758342144/t1ifF4LF_400x400.jpg" group-title="*TVZON",FR | Discovery Investigation
+http://185.93.1.39/FRCH_Discovery_Investigation_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/908026116560101376/roWv2x4X.jpg" group-title="*TVZON",FR | Discovery Science
+http://185.93.1.39/FRCH_Discovery_Science_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1037625446421155840/RqSwhgPZ.jpg" group-title="*TVZON",FR | Golf Channel
 http://185.93.1.39/FRCH_GOLF_CHANNEL_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png" group-title="*TVZON",FR | OCS Géants
