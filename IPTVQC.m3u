@@ -52,6 +52,8 @@ http://185.93.1.39/FRCH_Telemagino_HD_CA/index.m3u8
 http://185.93.1.39/FRCH_TELE_QUEBEC_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1f/Teletoon_2011.png" group-title="*TVZON",CA | Télétoon
 http://185.93.1.39/FRCH_TELE_TOON_FRENCH_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2017/12/tv5-quebec-canada.png" group-title="*TVZON",CA | TV5 Québec
+http://185.93.1.39/FRCH_TV5_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m1.quebecormedia.com/static/tva_logo_color-01b1abdb966b427797c95d47c0f3376b.png" group-title="*TVZON",CA | TVA Québec
 http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://25stanley.com/wp-content/uploads/2013/11/tva-sports-logo.jpg" group-title="*TVZON",CA | TVA Sports
