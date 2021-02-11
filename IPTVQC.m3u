@@ -16,6 +16,8 @@ http://185.93.1.39/FRCH_CANAL_D_CA/index.m3u8
 http://185.93.1.39/FRCH_VIE_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/CASA_logo.svg/220px-CASA_logo.svg.png" group-title="*TVZON",CA | CASA
 http://185.93.1.39/FRCH_CASA_CA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thekingdominsider.com/wp-content/uploads/2018/10/disney-channel-logo-1.jpg" group-title="*TVZON",CA | Disney Channel
+http://185.93.1.39/FRCH_Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cartt.ca/wp-content/uploads/2017/08/Frissons-TV.jpg" group-title="*TVZON",CA | Frissons TV
 http://185.93.1.39/FRCH_Frissons_TV_HD_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="*TVZON",CA | Historia
