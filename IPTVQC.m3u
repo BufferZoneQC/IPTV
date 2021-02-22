@@ -1,13 +1,7 @@
 #EXTM3U
  
 #EXTREM: xBuck74
-#EXTREM: 2021-02-14
-
-#EXTINF:-1,======== *UFC ========
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/U/ufc-logo-25A796E80A-seeklogo.com.png" group-title="*UFC", UFC 258
-#EXTREM: 2021-01-13 UFC 258
-http://cdn.maskamr.xyz/live/MMA/playlist.m3u8
+#EXTREM: 2021-02-21
 
 
 
@@ -62,9 +56,9 @@ http://185.93.1.39/FRCH_TELE_TOON_FRENCH_CA/index.m3u8
 http://185.93.1.39/FRCH_TV5_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://m1.quebecormedia.com/static/tva_logo_color-01b1abdb966b427797c95d47c0f3376b.png" group-title="*TVZON",CA | TVA Québec
 http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://25stanley.com/wp-content/uploads/2013/11/tva-sports-logo.jpg" group-title="*TVZON",CA | TVA Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tvasports.png" group-title="*TVZON",CA | TVA Sports
 http://185.93.1.39/FRCH_TVA_SPORTS_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://25stanley.com/wp-content/uploads/2013/11/tva-sports-logo.jpg" group-title="*TVZON",CA | TVA Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tvchannellogos-tva-sports2-300x300.png" group-title="*TVZON",CA | TVA Sports 2
 http://185.93.1.39/FRCH_TVA_Sports_2_HD_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.niagaracollege.ca/insidenc/wp-content/uploads/sites/53/2020/07/TVO.jpg" group-title="*TVZON",CA | TVO
 http://185.93.1.39/FRCH_TVO_CA/index.m3u8
