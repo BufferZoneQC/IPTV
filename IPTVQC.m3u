@@ -4,8 +4,15 @@
 
 
 
+#EXTINF:-1,======== YOUTUBE ========
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="*YOUTUBE", Fireplace (NO MUSIC)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614157186/ei/IsE1YKCXKI7vhgb64qXIDw/ip/76.71.180.192/id/kOnIAoqQkd4.1/source/yt_live_broadcast/requiressl/yes/tx/23973443/txs/23973443%2C23973444%2C23997051%2C23998065%2C23998066/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/23983797/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUNBFxn7LpZxlNd6VowDtUetUVkvfyVO1tWPqD82IywICIQCguGx1v8F5fBprIBCVkbFqzGXdtnmQlcQjQPLiPlSivA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="*YOUTUBE", Coronavirus Pandemic
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614157427/ei/E8I1YMY4zteHBsGotsgJ/ip/76.71.180.192/id/NMre6IAAAiU.5/source/yt_live_broadcast/requiressl/yes/tx/23973443/txs/23973443%2C23973444%2C23997051%2C23998065%2C23998066/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/23983797/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKJKp36gO2h2hGO0XCaOggJ5o4zhOo24vtDyF61IhAKnAiEApSCZjxtDrs1BUZYIUctBBDh-5AR8L2GhNLcDPe8urMk%3D/file/index.m3u8
+
 #EXTINF:-1,======== TVZON-CA ========
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2019/03/51c02883ca0c28e47a758716e21f29c43ca6f5d753f75b9c9a950109693eea95.jpeg" group-title="*TVZON",CA | Addik TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2019/03/51c02883ca0c28e47a758716e21f29c43ca6f5d753f75b9c9a950109693eea95.jpeg" group-title="*TVZON",CA | Burning Fireplace & Crackling Fire Sounds (NO MUSIC)
 http://185.93.1.39/FRCH_addikTV_HD_CA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/1200px-CanalD.svg.png" group-title="*TVZON",CA | Canal D
 http://185.93.1.39/FRCH_CANAL_D_CA/index.m3u8
