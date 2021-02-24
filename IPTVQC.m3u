@@ -4,8 +4,6 @@
 
 
 
-#EXTINF:-1,======== TVZON ========
-
 #EXTINF:-1,======== TVZON-CA ========
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2019/03/51c02883ca0c28e47a758716e21f29c43ca6f5d753f75b9c9a950109693eea95.jpeg" group-title="*TVZON",CA | Addik TV
 http://185.93.1.39/FRCH_addikTV_HD_CA/index.m3u8
