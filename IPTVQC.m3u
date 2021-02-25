@@ -1,716 +1,297 @@
 #EXTM3U
- 
-#EXTREM: 2021-02-23
 
-
-
-#EXTINF:-1,======== YOUTUBE ========
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="*YOUTUBE", Fireplace (NO MUSIC)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614157186/ei/IsE1YKCXKI7vhgb64qXIDw/ip/76.71.180.192/id/kOnIAoqQkd4.1/source/yt_live_broadcast/requiressl/yes/tx/23973443/txs/23973443%2C23973444%2C23997051%2C23998065%2C23998066/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/23983797/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUNBFxn7LpZxlNd6VowDtUetUVkvfyVO1tWPqD82IywICIQCguGx1v8F5fBprIBCVkbFqzGXdtnmQlcQjQPLiPlSivA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="*YOUTUBE", Coronavirus Pandemic
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614157427/ei/E8I1YMY4zteHBsGotsgJ/ip/76.71.180.192/id/NMre6IAAAiU.5/source/yt_live_broadcast/requiressl/yes/tx/23973443/txs/23973443%2C23973444%2C23997051%2C23998065%2C23998066/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/23983797/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKJKp36gO2h2hGO0XCaOggJ5o4zhOo24vtDyF61IhAKnAiEApSCZjxtDrs1BUZYIUctBBDh-5AR8L2GhNLcDPe8urMk%3D/file/index.m3u8
-
-#EXTINF:-1,======== TVZON-CA ========
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2019/03/51c02883ca0c28e47a758716e21f29c43ca6f5d753f75b9c9a950109693eea95.jpeg" group-title="*TVZON",CA | Burning Fireplace & Crackling Fire Sounds (NO MUSIC)
-http://185.93.1.39/FRCH_addikTV_HD_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/CanalD.svg/1200px-CanalD.svg.png" group-title="*TVZON",CA | Canal D
-http://185.93.1.39/FRCH_CANAL_D_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalvie.com/img/canalvie/logo/logo-canalvie.png" group-title="*TVZON",CA | Canal Vie
-http://185.93.1.39/FRCH_VIE_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/CASA_logo.svg/220px-CASA_logo.svg.png" group-title="*TVZON",CA | CASA
-http://185.93.1.39/FRCH_CASA_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thekingdominsider.com/wp-content/uploads/2018/10/disney-channel-logo-1.jpg" group-title="*TVZON",CA | Disney Channel
-http://185.93.1.39/FRCH_Disney_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cartt.ca/wp-content/uploads/2017/08/Frissons-TV.jpg" group-title="*TVZON",CA | Frissons TV
-http://185.93.1.39/FRCH_Frissons_TV_HD_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png" group-title="*TVZON",CA | Historia
-http://185.93.1.39/FRCH_Historia_HD_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radio-canada.ca/w_1400,h_1400/v1/auto-promo/promo-marques/perso/ici-rdi-logo-1400.png" group-title="*TVZON",CA | ici RDI
-http://185.93.1.39/FRCH_RDI_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.investigationtele.com/polopoly_fs/1.1354595.1567539347!/image/Investigation_626x352.jpg_gen/derivatives/nclandscape_626_352/Investigation_626x352.jpg" group-title="*TVZON",CA | Investigation
-http://185.93.1.39/FRCH_INVESTIGATION_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/LCN_%28logo%2C_2020%29.svg/1200px-LCN_%28logo%2C_2020%29.svg.png" group-title="*TVZON",CA | LCN
-http://185.93.1.39/FRCH_LCN_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2020/05/NOOVO_DegradeBleu_RVB.png?fit=clip&w=500&h=500&crop=faces&q=75" group-title="*TVZON",CA | Noovo
-http://185.93.1.39/FRCH_V_MONTREAL_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rdsimages.cookieless.ca/polopoly_fs/1.7375273!/img/httpImage/image.png" group-title="*TVZON",CA | RDS
-http://185.93.1.39/FRCH_RDS_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rds2.png?fit=clip&w=500&h=500&crop=faces&q=75" group-title="*TVZON",CA | RDS 2
-http://185.93.1.39/FRCH_RDS_2_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/1200px-Rds_info.svg.png" group-title="*TVZON",CA | RDS Info
-http://185.93.1.39/FRCH_RDS_INFO_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d3fgqmmhgv8ngq.cloudfront.net/sites/default/files/savoir.media_.jpg" group-title="*TVZON",CA | Savoir.média
-http://185.93.1.39/FRCH_CANAL_SAVOIR_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2018/07/series.png" group-title="*TVZON",CA | Série+
-http://185.93.1.39/FRCH_SERIES_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Super_%C3%89cran_logo.png" group-title="*TVZON",CA | Super Écran 1
-http://185.93.1.39/FRCH_SUPER_ECRAN_1_CA/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Super_%C3%89cran_logo.png" group-title="*TVZON",CA | Super Écran 2
-http://185.93.1.39/FRCH_SUPER_ECRAN_2_CA/index.m3u8  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Super_%C3%89cran_logo.png" group-title="*TVZON",CA | Super Écran 3
-http://185.93.1.39/FRCH_SUPER_ECRAN_3_CA/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Super_%C3%89cran_logo.png" group-title="*TVZON",CA | Super Écran 4
-http://185.93.1.39/FRCH_SUPER_ECRAN_4_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Logo_de_T%C3%A9l%C3%A9magino.jpg" group-title="*TVZON",CA | Télémagino
-http://185.93.1.39/FRCH_Telemagino_HD_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/1200px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="*TVZON",CA | Télé-Québec
-http://185.93.1.39/FRCH_TELE_QUEBEC_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1f/Teletoon_2011.png" group-title="*TVZON",CA | Télétoon
-http://185.93.1.39/FRCH_TELE_TOON_FRENCH_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ctvm.info/wp-content/uploads/2017/12/tv5-quebec-canada.png" group-title="*TVZON",CA | TV5 Québec
-http://185.93.1.39/FRCH_TV5_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m1.quebecormedia.com/static/tva_logo_color-01b1abdb966b427797c95d47c0f3376b.png" group-title="*TVZON",CA | TVA Québec
-http://185.93.1.39/FRCH_TVA_QUEBEC_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tvasports.png" group-title="*TVZON",CA | TVA Sports
-http://185.93.1.39/FRCH_TVA_SPORTS_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bellaliant.bell.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tvchannellogos-tva-sports2-300x300.png" group-title="*TVZON",CA | TVA Sports 2
-http://185.93.1.39/FRCH_TVA_Sports_2_HD_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.niagaracollege.ca/insidenc/wp-content/uploads/sites/53/2020/07/TVO.jpg" group-title="*TVZON",CA | TVO
-http://185.93.1.39/FRCH_TVO_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_VRAK.png" group-title="*TVZON",CA | Vrak
-http://185.93.1.39/FRCH_Vrak_HD_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Yoopa.svg/1200px-Logo_Yoopa.svg.png" group-title="*TVZON",CA | Yoopa
-http://185.93.1.39/FRCH_YOOPA_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ztele.com/img/ztele2014/logo/Z_2014_200.jpg" group-title="*TVZON",CA | Z Télé
-http://185.93.1.39/FRCH_CANAL_Z_HD_CA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Zeste.svg/1200px-Zeste.svg.png" group-title="*TVZON",CA | Zeste
-http://185.93.1.39/FRCH_ZESTE_CA/index.m3u8
-
-
-#EXTINF:-1,======== TVZON-FR ========
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1115165244744261632/1MIU6jXq.png" group-title="*TVZON",FR | Arte
-http://185.93.1.39/FRCH_ARTE_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/cine-emotion.png" group-title="*TVZON",FR | Ciné+ Émotion
-http://185.93.1.39/FRCH_Cine_Plus_Emotion_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://more.blue.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusFamiz-1.png" group-title="*TVZON",FR | Ciné+ Famiz
-http://185.93.1.39/FRCH_Cine_Plus_Famiz_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalplus.ch/wp-content/uploads/2018/07/cinefrisson-2019-rvb-300x161.png" group-title="*TVZON",FR | Ciné+ Frisson
-http://185.93.1.39/FRCH_Cine_Plus_Frisson_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/6804E1E7DDE-DCD7-EB1A-F03490EBA80C20B2.jpg" group-title="*TVZON",FR | Discovery Channel
-http://185.93.1.39/FRCH_Discovery_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/890679019758342144/t1ifF4LF_400x400.jpg" group-title="*TVZON",FR | Discovery Investigation
-http://185.93.1.39/FRCH_Discovery_Investigation_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/908026116560101376/roWv2x4X.jpg" group-title="*TVZON",FR | Discovery Science
-http://185.93.1.39/FRCH_Discovery_Science_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1037625446421155840/RqSwhgPZ.jpg" group-title="*TVZON",FR | Golf Channel
-http://185.93.1.39/FRCH_GOLF_CHANNEL_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png" group-title="*TVZON",FR | OCS Géants
-http://185.93.1.39/FRCH_Ocs_Geants_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png" group-title="*TVZON",FR | OCS City
-http://185.93.1.39/FRCH_Ocs_City_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png" group-title="*TVZON",FR | OCS Max
-http://185.93.1.39/FRCH_Ocs_Max_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/1200px-OCS.svg.png" group-title="*TVZON",FR | OCS Choc
-http://185.93.1.39/FRCH_Ocs_Choc_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/1200px-TF1_%282013%29.svg.png" group-title="*TVZON",FR | TF1
-http://185.93.1.39/FRCH_TF1_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1331872689267601412/yFSgFpCJ_400x400.jpg" group-title="*TVZON",FR | TMC
-http://185.93.1.39/FRCH_TMC_HD/index.m3u8
-
-
-#EXTINF:-1,======== CANADA ========
-
-#EXTINF:-1,======== CANADA FRANCAIS ========
-
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="" tvg-logo="https://i.imgur.com/JkgUZNa.png" group-title="CANADA FRANCAIS",Assemblé Nationale du Quebec (480x270)
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AssembleeNationale.ca" tvg-name="" tvg-logo="https://i.imgur.com/JkgUZNa.png" group-title="CANADA FRANCAIS",Assemblé Nationale du Quebec (640x360)
-http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist_w592829221.m3u8
-#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/Canal_Savoir.png?raw=true" group-title="CANADA FRANCAIS",Canal Savoir
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="CPAC.ca" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/cpac.png?raw=true" group-title="CANADA FRANCAIS",CPAC (Français)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-id="RDINews.ca" tvg-logo="https://images.radio-canada.ca/w_1400,h_1400/v1/auto-promo/promo-marques/perso/ici-rdi-logo-1400.png" group-title="CANADA FRANCAIS",ici RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/LCN_%28logo%2C_2020%29.svg/1200px-LCN_%28logo%2C_2020%29.svg.png" group-title="CANADA FRANCAIS",LCN
-https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
-#EXTINF:-1 tvg-id="VTele.ca" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="CANADA FRANCAIS",noovo
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/egarizim.png?raw=true" group-title="CANADA FRANCAIS"",TCM television
-https://5790d294af2dc.streamlock.net/8150/8150/chunklist_w893346968.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://m1.quebecormedia.com/static/tva_logo_color-01b1abdb966b427797c95d47c0f3376b.png" group-title="CANADA FRANCAIS", TVA HD
-https://tvalive.akamaized.net/hls/live/2012413/tva01/med_720p/med_720p.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-logo="https://m1.quebecormedia.com/static/tva_logo_color-01b1abdb966b427797c95d47c0f3376b.png" group-title="CANADA FRANCAIS", TVA FullHD
-https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
-
-
-
-#EXTINF:-1,======== CANADA ENGLISH ========
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SP1fJrj.png" group-title="CANADA ENGLISH",Global News Montreal
-https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/957919598749323264/NuYdCE6a_400x400.jpg" group-title="CANADA ENGLISH",CBC News
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/cbcnews-300.png" group-title="CANADA ENGLISH",CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:0  tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Calgary
-https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Charlottetown
-https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Edmonton
-https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Fredericton
-https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Halifax
-https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Montreal
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Ottawa
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Regina
-https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC St -John
-https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Toronto
-https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Vancouver
-https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Windsor
-https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Winnipeg
-https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1146042843477237761/kKe8vdVn.png" group-title="CANADA ENGLISH",CBC Yellowknife
-https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/paw-patrol/images/0/00/KKids.png/revision/latest/scale-to-width-down/340?cb=20150430202838" group-title="CANADA ENGLISH",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:0 tvg-name="NTV" tvg-language="English" tvg-country="CA" tvg-id="NTV" tvg-logo="https://i.imgur.com/rI4DCiE.png" group-title="CANADA ENGLISH",NTV (CJON-DT)
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://seletlumieretv.org/images/logo/sl-french-logo.png" group-title="CANADA ENGLISH",SLMedia
-https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-
-
-
-#EXTINF:-1,======== ICI Tele Canada (Geo) ========
-
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Acadie)
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Est du Québec)
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Estrie/Sherbrooke)
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Grand Nord)
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Mauricie-Centre du Québec)
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
-#EXTINF:-1 tvg-id="ICITelevisionMontreal.ca" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Montréal)
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Ontario)
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Québec)
-https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Ottawa-Gatineau)
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Sphinxroot/Iptv-free-direct/blob/master/Images/Logo%20Station%20QC/ICI-Tele.png?raw=true" group-title="ICI Tele Canada (Geo)",ici Tele (Saguenay)
-https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Saskatchewan)
-https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (Terre-Neuve et Labrador)
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (-1H)(Winnipeg/Manitoba)
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-shift="1" tvg-id=""  tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Tele (-2H)(Alberta)
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://www.ccapcable.com/lib/upload/2016/12/icitele_logocablo_ver_rvb-web.png" group-title="ICI Tele Canada (Geo)",ici Radio-Canada (-3H)(Colombie-Britanique/Yukon)
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
-
-
-
-#EXTINF:-1,======== USA ========
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="USA",ABC News D-0 (Main)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="USA",Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="USA",Adventure Sports Network 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8 
-#EXTINF:-1 tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="USA",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://pbs.twimg.com/profile_images/732923217489301504/oeISVsOw_400x400.jpg" group-title="USA",CBS
-http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="USA",CBS News | CBSN National
-https://cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="USA",CBS News | CBSN New York
-https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="USA",CBS News | CBSN Live Event
-https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="USA",CBS News | CBS Sports HQ
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-#EXTINF:-1 tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="USA",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="USA",FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="USA",Fighting Spirit
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Folk-TV.png" group-title="USA",Folk TV
-http://wz1.mainstreamnetwork.com:1935/folk-tv/myStream.sdp/chunklist_w461935050.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="USA",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-logo="http://75.146.183.54:2080/Cablecast/Public/Logos/1/MCN-Vimeo-Logo.png" group-title="USA",Metro Cable Network
-http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/WTVJ_2009_Logo.png/180px-WTVJ_2009_Logo.png" group-title="USA",NBC (WTVJ)
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="USA",NBC News Now 24/7 Live
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="USA",NBC News Now Event 1
-https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fkc7MuP.png" group-title="USA",Outdoor Channel
-https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="USA",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA",Red Bull TV SD 
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="USA",Red Bull TV HD 
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-hmy3hsRv7T0/AAAAAAAAAAI/AAAAAAAAj6E/X_aY_wYBrFg/s0-c-k-no-ns/photo.jpg" group-title="USA",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8 
-#EXTINF:0 tvg-name="Weather Nation" tvg-language="English" tvg-country="US" tvg-id="Weather Nation" tvg-logo="http://i.imgur.com/1JEerNY.jpg" group-title="USA",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/logo.png" group-title="USA",Wipeout
-http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="USA",WWE Network 
-http://cdnak19.cast4u.info/channels/4/10804.m3u8 
-
-
-
-#EXTINF:-1,======== Sports ========
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wrestling-edge.com/wp-content/uploads/2020/08/UFC-Logo.jpg" group-title="Sports",UFC USA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/280x280_RS/6e/d0/27/6ed0277d00c8c54f60e8559c8371dced.jpg" group-title="Sports",FIGHT NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
-#EXTINF:-1 tvg-id="" tvg-name="FightBox" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="Sports",FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN News
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN U
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN GOAL LINE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ESPN 2 HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",NFL NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",NFLREDZONE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/623
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",NFL GAMEPASS REDZONE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",FS1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",FS2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",FOXCOLLEGESPORTSCENTRAL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",GOLF CHANNEL HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",MLB NETWORKS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",REDBULL TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",FORMULA 1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",BEIN SPORTS ENG HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ELEVEN SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",SPORTSMAN CHANNEL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/12/cbs-sports-app-logo.png" group-title="Sports",CBS Sports Network
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",GOLF NETWORK
-http://203.162.235.41:16924
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="Sports",Adventure Sports Network 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports",CBS Sports HQ
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Sports",USA | Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV FullHD
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV SD 
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV HD 
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Sports",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="https://audiovision.de/wp-content/uploads/2019/11/edge-sport.jpg" group-title="Sports",EDGEsport 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-
-
-
-#EXTINF:-1,======== Olympics ========
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Olympics",OLYMPIC CHANNEL HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Olympics",CBC Olympics (Geo-CA) HD
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBC_Olympics_400x400.png?raw=true" group-title="Olympics",CBC Olympics (Geo-CA) SD
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 1 FullHD
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 1 HD
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 1 SD
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 2 FullHD
-https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 2 HD
-https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 2 SD
-https://ott-live.olympicchannel.com/out/u/OC2_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 3
-https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 4
-https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 5
-https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 6
-https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 7
-https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 8
-https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 9
-https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 10
-https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 11
-https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="Olympics",Olympic Ch 12
-https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
-
-
-
-#================================================================================================================================================================================================================================================================================================================================================================* 
-#EXTINF:-1,======== MUSIQUE/RADIO/AUDIO ========
-#================================================================================================================================================================================================================================================================================================================================================================* 
-
-
-
-#EXTINF:-1,======== Stingray Music ========
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",404 Stingray Greatest Hits
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",405 Stingray Hit List
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",406 Stingray Classic Rock
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",407 Stingray Rock Alternative
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",408 Stingray Pop Adult
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",409 Stingray Urban Beat
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",410 Stingray Hot Country
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",411 Stingray Flashback 70s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",412 Stingray Everything 80s
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",413 Stingray Today's Latin Pop
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Soul Storm
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Qello Concerts
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Karaoke
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Stingray Music",BONUS Stingray Naturescape
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
-
-
-
-#EXTINF:-1,======== RADIO/AUDIO ========
-#http://fluxradios.blogspot.com/p/flux-radios-quebecoise.html
-#https://doc.ubuntu-fr.org/liste_radio_canada
-
-#EXTINF:-1,======== Cogeco ========
-
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-profiles.tunein.com/s12468/images/logog.jpg?t=154463" tvg-name="O" group-title="Radio QC",Cogeco | 98.5FM Montréal (CHMP-FM)
-http://cogecomedia.leanstream.co/CHMPFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-profiles.tunein.com/s12320/images/logog.jpg?t=154463" tvg-name="O" group-title="Radio QC",Cogeco | 104.7FM Gatineau (CKOF-FM)
-http://cogecomedia.leanstream.co/CKOFFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-profiles.tunein.com/s279849/images/logog.jpg?t=154463" tvg-name="O" group-title="Radio QC",Cogeco | 106.9FM Trois-Rivières (CKOB-FM)
-http://cogecomedia.leanstream.co/CKOBFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-profiles.tunein.com/s24769/images/logog.jpg?t=154463" tvg-name="O" group-title="Radio QC",Cogeco | 107.7FM Sherbrooke (CKOY-FM)
-http://cogecomedia.leanstream.co/CKOYFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88951g.png" tvg-name="O" group-title="Radio QC",Cogeco | CIME FM Laurentides (CIME-FM)
-http://cogecomedia.leanstream.co/CIMEFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24774g.png" tvg-name="O" group-title="Radio QC",Cogeco | CKOI Montréal (CKOI-FM)
-http://cogecomedia.leanstream.co/CKOIFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_FM93.jpg" tvg-name="O" group-title="Radio QC",Cogeco | FM93 Québec (CJMF-FM)
-http://cogecomedia.leanstream.co/CJMFFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://carlfiset.files.wordpress.com/2019/02/logo200.jpg" tvg-name="O" group-title="Radio QC",Cogeco | M FM 102.9 (CFOM-FM)
-http://cogecomedia.leanstream.co/CFOMFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/pYxyRkAhWU.png" tvg-name="O" group-title="Radio QC",Cogeco | Radio Circulation 730 Montréal (CKAC)
-http://cogecomedia.leanstream.co/CKACAM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Rythme_FM_Logo.svg/1280px-Rythme_FM_Logo.svg.png" tvg-name="O" group-title="Radio QC",Cogeco | Rythme FM Mauricie (CJEB-FM)
-http://cogecomedia.leanstream.co/CJEBFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Rythme_FM_Logo.svg/1280px-Rythme_FM_Logo.svg.png" tvg-name="O" group-title="Radio QC",Cogeco | Rythme FM Montréal (CFGL-FM)
-http://cogecomedia.leanstream.co/CFGLFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Rythme_FM_Logo.svg/1280px-Rythme_FM_Logo.svg.png" tvg-name="O" group-title="Radio QC",Cogeco | Rythme FM Sherbrooke (CFGE-FM)
-http://cogecomedia.leanstream.co/CFGEFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/daeZtYwCb7.png" tvg-name="O" group-title="Radio QC",Cogeco | The Beat Montréal (CKBE-FM)
-http://cogecomedia.leanstream.co/CKBEFM-MP3
-
-
-
-#EXTINF:-1,======== Groupe Radio Simard (GRS) ========
-
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/CHOX-FM_logo.png" tvg-name="O" group-title="Radio QC",GRS | CHOX 97.5 La Pocatière (CHOX-FM)
-http://stream.statsradio.com:8052/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-profiles.tunein.com/s12403/images/logog.png?t=153441" tvg-name="O" group-title="Radio QC",GRS | Ciel FM Rivière-du-Loup (CIEL-FM)
-http://stream.statsradio.com:8046/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-ciqi-90-3-fm-en-direct.png" tvg-name="O" group-title="Radio QC",GRS | CIQI FM Montmagny (CIQI-FM)
-http://stream.statsradio.com:8044/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.coolfm.biz/assets/img/facebook.png" tvg-name="O" group-title="Radio QC",GRS | Cool FM 103.5 Saint-Georges-de-Beauce (CKRB-FM)
-http://stream.statsradio.com:8040/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.mpvradio.ca/wp-content/uploads/2017/09/Logo-CFYX-FM2.jpg" tvg-name="O" group-title="Radio QC",GRS | FM93 Rimouski (CFYX-FM)
-http://s20.myradiostream.com:4070/;stream/1
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://statsradio.azureedge.net/radios-logos/CIBM-FM.gif" tvg-name="O" group-title="Radio QC",GRS | FM 107 Rivière-du-Loup (CIBM-FM)
-http://stream.statsradio.com:8050/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.mix997.com/assets/img/facebook.png" tvg-name="O" group-title="Radio QC",GRS | Mix 99.7 Saint-Georges-de-Beauce (CHJM-FM)
-http://stream.statsradio.com:8054/stream
-
-
-
-#EXTINF:-1,======== Leclerc Communication ========
-
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://blvd.fm/img/logo-blvd-og.jpg" group-title="Radio QC",Leclerc | BLVD Québec | CFEL-FM
-http://streaming.cfel.leclerccommunication.ca:8000/cfel.aac
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s113510g.png" group-title="Radio QC",Leclerc | WKND Radio 91.9 Québec (CJEC-FM)
-http://streaming.cjec.leclerccommunication.ca:8000/cjec.aac
-
-
-
-#EXTINF:-1,======== RNC Media ========
-
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-91-9-sports-montreal-en-direct.png" tvg-name="O" group-title="Radio QC",RNC | 91.9 Sports - Montréal (CKLX-FM)
-http://icecast-cklx.rncm.ca/cklx.mp3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s95719g.png" tvg-name="O" group-title="Radio QC",RNC | Capitale Rock - Est (CHGO-FM)
-http://cogecomedia.leanstream.co/CJGOFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://cdn-radiotime-logos.tunein.com/s95719g.png" tvg-name="O" group-title="Radio QC",RNC | Capitale Rock - Ouest (CJGO-FM)
-http://cogecomedia.leanstream.co/CJGOFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://static-media.streema.com/media/cache/c3/de/c3dee8b52a5200ccc8d11f80a9f5796c.jpg" tvg-name="O" group-title="Radio QC",RNC | KYK Radio X - Saguenay (CKYK-FM)
-http://cogecomedia.leanstream.co/CKYKFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://s3stark.rncm.ca/craft2/nanobox/anselGenerated/logo2020_200903_090632-21531-1599138391.png?mtime=20200903090636" tvg-name="O" group-title="Radio QC",RNC | La nouvelle vibe de Québec - Québec (CHXX-FM)
-http://icecast-chxx.rncm.ca/chxx.aac
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-planete-104-5-fm-alma-en-direct.png" tvg-name="O" group-title="Radio QC",RNC | Planète - Alma (CFGT-FM)
-http://cogecomedia.leanstream.co/CFGTFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-planete-93-5-fm-chibougamau-en-direct.png" tvg-name="O" group-title="Radio QC",RNC | Planète - Chibougamau (CKXO-FM)
-http://cogecomedia.leanstream.co/CKXOFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/SE2RCfGzxv.jpeg" tvg-name="O" group-title="Radio QC",RNC | Planète - Dolbeau-Mistassini (CHVD-FM)
-http://cogecomedia.leanstream.co/CHVDFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-planete-99-5-fm-roberval-en-direct.png" tvg-name="O" group-title="Radio QC",RNC | Planète - Roberval (CHRL-FM)
-http://cogecomedia.leanstream.co/CHRLFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://static-media.streema.com/media/cache/12/97/1297c1209e371d38dcbfcd1512c438fd.jpg" tvg-name="O" group-title="Radio QC",RNC | Wow - Lachute-Hawkesbury (CJLA-FM & CHPR-FM)
-http://cogecomedia.leanstream.co/CJLAFM-MP3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://radiox.com/choi981/wp-content/uploads/sites/65/2019/08/RxQC-200x227.png" tvg-name="O" group-title="Radio QC",RNC | Radio X - Québec (CHOI-FM)
-http://stream2.radiox.com:80/choi.aac
-
-
-
-#EXTINF:-1,======== Plaisir ========
-
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/bQYJaHg.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir | 94.1 Sept-Iles
-http://stream.statsradio.com:8034/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/U0pmW7i.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir | 101.9 Victoriaville
-https://stream.statsradio.com:8006/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/oUt2tlv.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir | 105.3 Matane
-http://stream.statsradio.com:8028/stream
-#EXTINF:-1 radio="true"  tvg-id="AMR" tvg-logo="https://i.imgur.com/oHWNh8a.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir | 105.5 Thetford Mines
-http://stream.statsradio.com:8010/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/wD77aSH.png" tvg-name="Plaisir" group-title="Radio QC",Plaisir | 106.7 Lac-Megantic
-https://stream.statsradio.com:8008/stream
-
-
-
-#EXTINF:-1,======== MIX ========
-
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/B1QN6dW.png" tvg-name="O" group-title="Radio QC",O 95.3 Matane
-http://stream.statsradio.com:8026/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/i4WjvPp.png" tvg-name="O" group-title="Radio QC",O 97.1 La Tuque
-http://stream.statsradio.com:8018/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/tzelPZ8.png" tvg-name="O" group-title="Radio QC",O 97.3 Centre-du-Quebec et des Appalaches
-http://stream.statsradio.com:8012/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/7DU5J9n.png" tvg-name="O" group-title="Radio QC",O 98.3 Saguenay-Lac-Saint-Jean
-http://stream.statsradio.com:8064/stream
-#EXTINF:-1 tvg-id="AMR" tvg-logo="https://i.imgur.com/OfpCTlP.png" tvg-name="O" group-title="Radio QC",O 99.1 Sept-Iles et Port-Cartier
-http://stream.statsradio.com:8020/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/lh7zAt6.png" tvg-name="O" group-title="Radio QC",O 101.5 Beauce,Rive-Sud et Québec
-http://stream.statsradio.com:8016/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/3smuDBA.png" tvg-name="O" group-title="Radio QC",O 103.5 Lanaudiere
-http://stream.statsradio.com:8024/stream
-
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://arcq.qc.ca/wp-content/uploads/2018/08/CIBL-300x225-300x225.jpg" group-title="Radio QC",CIBL 101.5 - Montréal (CIBL-FM)
-http://stream02.ustream.ca:8000/cibl128.mp3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.allzicradio.com/media/radios/cism.jpg" group-title="Radio QC",CISM-FM 89.3 - Montréal (CISM-FM)
-http://stream03.ustream.ca/cism128.mp3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.quebec-elan.org/wp-content/uploads/2017/01/5n.CJLOColorWEB__900_541_90.jpg" group-title="Radio QC",CJLO - Montréal (CJLO)
-http://rosetta.shoutca.st:8883/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-radio-mieux-etre-1570-am-en-direct.png" group-title="Radio QC",CJLV 1570 AM - Laval (CJLV)
-http://174.142.215.249:8620/;stream.mp3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-cjms-1040-am-en-direct.png" group-title="Radio QC",CJMS 1040 - Saint-Constant (CJMS)
-http://gemini.shoutca.st:8572
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://ckiafm.org/images/frontend/CKIA-bois.png" group-title="Radio QC",CKIA-FM - Québec (CKIA-FM)
-http://ecoutez.ckiafm.org:8000/live.mp3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.cpsquebec.ca/wp-content/uploads/2019/04/ckrllogo_mauve_rgb_high.jpg" group-title="Radio QC",CKRL-FM - Québec (CKRL-FM)
-http://stream02.ustream.ca:8000/ckrl128.mp3
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-ckut-90-3-fm-en-direct.png" group-title="Radio QC",CKUT - Montréal (CKUT-FM)
-http://stream.ckut.ca:8000/903fm-192-stereo
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://fm1033.ca/wp-content/uploads/2017/01/logo-fm1033-300x151.png" group-title="Radio QC",FM 103.3 - Longueuil (CHAA-FM)
-http://stream.statsradio.com:8062/stream.mp3?_=1
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://www.radios-quebecoises.com/wp-content/uploads/2020/01/logo-k103-103-7-fm-kahnawake-en-direct.png" group-title="Radio QC",K103 Kahnawake - Kahnawake (CKRK-FM)
-http://stream.statsradio.com:8092/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://static-media.streema.com/media/cache/a2/22/a2226b2ca0c529fff02b124725eeb8a6.jpg" group-title="Radio QC",Radio-Classique - Montréal (CJPX-FM)
-http://stream2.statsradio.com:8006/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://static-media.streema.com/media/cache/a2/22/a2226b2ca0c529fff02b124725eeb8a6.jpg" group-title="Radio QC",Radio-Classique - Québec (CJSQ-FM)
-http://stream2.statsradio.com:8004/stream
-
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/JQN5wNK.png" tvg-name="Hit Country" group-title="Radio QC",Hit Country 95.7 Centre-du-Quebec
-http://stream.statsradio.com:8014/stream
-#EXTINF:-1 radio="true" tvg-id="AMR" tvg-logo="https://i.imgur.com/CMjpiOQ.png" tvg-name="Hit Country" group-title="Radio QC",Hit Country 105.5 Saguenay
-http://stream.statsradio.com:8088/stream
-#EXTINF:-1 radio="true"  tvg-logo="http://db.radioline.fr/pictures/radio_3883b091aa70f6d2a9c64941bc401af8/logo200.jpg?size=200" group-title="Radio QC",RadioCountry.Ca
-http://198.50.250.193:7008/?1534684222788.mp3
-
-
-
-#EXTINF:-1,======== Société Radio-Canada (SRC) ========
-#EXTINF:-1,======== ICI Musique ========
-
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Alberta)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Colombie-Britannique-Yukon)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7BVAN0_VAN
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Est du Québec)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QRIM0_RIM
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Estrie)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QSHE0_SHE
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Manitoba)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7MWIN0_WIN
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Mauricie/Centre-du-Québec)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QTRV0_TRV
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Moncton)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7EMCT0_MCT
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Montréal)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QMTL0_MTL
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Ottawa/Gatineau)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OOTT0_OTT
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Québec)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QQUE0_QUE
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Saguenay-Lac-Saint-Jean)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QSAG0_SAG
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Saskatchewan)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7MWIN0_WIN
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Sudbury)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OSUB0_SUB
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Terre-Neuve)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7EMCT0_MCT
-#EXTINF:-1 radio="true" tvg-logo="https://images.radiovolna.net/_files/images/stations/422640/70a72cc5f92f9e1cdb57ca41779e9203.jpg" group-title="Radio SRC",ICI Musique (Toronto)
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR
-
-#EXTINF:-1,======== ICI Première ========
-
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Abitibi-Témiscamingue) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QROU0_ROU
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Alberta) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2AEDM0_EDM
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Bas-Saint-Laurent) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QRIM0_RIM
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Colombie-Britannique) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Côte-Nord) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSEP0_SEP
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Estrie) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSHE0_SHE
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Gaspésie-Les-Îles) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2EMCT3_CHR
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Île-du-Prince-Édouard) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QROU0_ROU
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Manitoba) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2MWIN0_WIN
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Mauricie - Centre-du-Québec) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QTRV0_TRV
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Montréal) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMTL0_MTL
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Nouveau-Brunswick) 
-ttp://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2EMCT0_MCT
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Nouvelle-Écosse) 
-ttp://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2EMCT2_HAL
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Ottawa/Gatineau) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Québec) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QQUE0_QUE
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Saguenay-Lac-Saint-Jean) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSAG0_SAG
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Saskatchewan) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2SREG0_REG
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Sudbury) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Terre-Neuve) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2EMCT0_MCT
-#EXTINF:-1 radio="true" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6f/3e/100378/2/c300.png" group-title="Radio SRC",ICI Première (Toronto) 
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR
-
-
-
-#EXTINF:-1,======== Bell Media ========
-#EXTINF:-1,======== Bell Media/Energie ========
-
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/bxgkypF.png" group-title="Bell Media",Energie | Drummondville 92.1  
-https://20263.live.streamtheworld.com/CJDMFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/bxgkypF.png" group-title="Bell Media",Energie | Saguenay-Lac-St-Jean (CJAB-FM)  
-http://fluxradios.blogspot.be/2014/06/flux-url-nrj-saguenay-lac-st-jean-quebec.html
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/rgCQgKo.png" group-title="Bell Media",Energie | Montreal 94.3  
-https://16613.live.streamtheworld.com/CKMFFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/xSthDQW.png" group-title="Bell Media",Energie | Saguenay 94.5 
-https://20263.live.streamtheworld.com/CJABFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/h1b33js.png" group-title="Bell Media",Energie | Rimouski-Amqui 98.7-93.9 
-https://15903.live.streamtheworld.com/CIKIFMAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFY9hWE.png" group-title="Bell Media",Energie | Quebec 98.9 
-https://18123.live.streamtheworld.com/CHIKFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/xDpA7bG.png" group-title="Bell Media",Energie | Rouyn-Noranda-La Sarre 99.1-92.5  
-https://18133.live.streamtheworld.com/CJMMFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/KYxLhFI.png" group-title="Bell Media",Energie | Trois-Rivieres 102.3 
-https://17443.live.streamtheworld.com/CIGBFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/9tVWPuH.png" group-title="Bell Media",Energie | Val-d'Or 102.7  
-https://20263.live.streamtheworld.com/CJMVFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H12iKH7.png" group-title="Bell Media",Energie | Gatineau-Ottawa 104.1
-https://20263.live.streamtheworld.com/CKTFFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/LgKt9B4.png" group-title="Bell Media",Energie | Magog-Sherbrooke 106.1-106.9
-https://22113.live.streamtheworld.com/CIMOFMAAC.aac
-
-
-
-#EXTINF:-1,======== Bell Media/Rouge FM ========
-
-#EXTINF:-1 radio="true"  tvg-logo="https://i.imgur.com/6GPUZmB.png" group-title="Bell Media",Rouge FM | Amqui 99.9
-https://17343.live.streamtheworld.com/CFVMFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/2jh0vbk.png" group-title="Bell Media",Rouge FM | Drummondville 105.3
-https://18363.live.streamtheworld.com/CHRDFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/sG501KI.png" group-title="Bell Media",Rouge FM | Gatineau-ottawa 94.9
-https://20263.live.streamtheworld.com/CIMFFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Iz59VNG.png" group-title="Bell Media",Rouge FM | Montreal 107.3
-https://19293.live.streamtheworld.com/CITEFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7HmxwEj.png" group-title="Bell Media",Rouge FM | Quebec 107.5
-https://20793.live.streamtheworld.com/CITFFMAACTEST_48.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/rjx6lLE.png" group-title="Bell Media",Rouge FM | Rimouski 102.9
-https://17443.live.streamtheworld.com/CJOIFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/hqgw3Iu.png" group-title="Bell Media",Rouge FM | Saguenay 96.9
-https://17343.live.streamtheworld.com/CFIXFMAAC.aac
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/rDGfmzU.png" group-title="Bell Media",Rouge FM | Sherbrooke 102.7
-https://17613.live.streamtheworld.com/CITE1FMAAC.aac
-#EXTINF:-1 radio="true"  tvg-logo="https://i.imgur.com/D65EJMR.png" group-title="Bell Media",Rouge FM | Trois-Rivieres 94.7
-https://18123.live.streamtheworld.com/CHEYFMAAC.aac
-
-
+#EXTINF:-1,======== http://easyiptv.blogspot.com/2017/08/usa-iptv-m3u-playlist-afn-nba-nhl.html ========
+
+
+#EXTINF:0,USA: 360 North
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3863.ts
+#EXTINF:0,USA: A&E
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9315.ts
+#EXTINF:0,USA: ABC HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16858.ts
+#EXTINF:0,USA: ABC News
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/2931.ts
+#EXTINF:0,USA: ABC Spark HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15243.ts
+#EXTINF:0,USA: ABC W HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15244.ts
+#EXTINF:0,USA: AFN MOVIE
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9488.ts
+#EXTINF:0,USA: AFN Prime Atlantic
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10167.ts
+#EXTINF:0,USA: AFN SPECTRUM
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10166.ts
+#EXTINF:0,USA: AFN SPORTS 2
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9517.ts
+#EXTINF:0,USA: AFN SPORTS
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9516.ts
+#EXTINF:0,USA: AMC HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8415.ts
+#EXTINF:0,USA: Animal Planet
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15250.ts
+#EXTINF:0,USA: ASD TV
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3861.ts
+#EXTINF:0,USA: Astro SUPERSPORT 1
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9518.ts
+#EXTINF:0,USA: Astro SUPERSPORT 2
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9519.ts
+#EXTINF:0,USA: Astro SUPERSPORT 3
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9520.ts
+#EXTINF:0,USA: BBC America
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16857.ts
+#EXTINF:0,USA: BeIN Sports USA HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13227.ts
+#EXTINF:0,USA: Bloomberg
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9510.ts
+#EXTINF:0,USA: BNN HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16856.ts
+#EXTINF:0,USA: Bravo
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8691.ts
+#EXTINF:0,USA: C-SPAN 3
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9320.ts
+#EXTINF:0,USA: C-SPAN
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9318.ts
+#EXTINF:0,USA: CBC HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16855.ts
+#EXTINF:0,USA: CBC News HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16854.ts
+#EXTINF:0,USA: CBC Vancover
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16853.ts
+#EXTINF:0,USA: CBN News
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3872.ts
+#EXTINF:0,USA: CBS HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16852.ts
+#EXTINF:0,USA: CBS News HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9508.ts
+#EXTINF:0,USA: CBS Sports Network HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16851.ts
+#EXTINF:0,USA: CBS W HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16850.ts
+#EXTINF:0,USA: Channel 11
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3860.ts
+#EXTINF:0,USA: Church Channel
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9536.ts
+#EXTINF:0,USA: CityTV Vancouver
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16815.ts
+#EXTINF:0,USA: CNN HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8692.ts
+#EXTINF:0,USA: CNN News HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16813.ts
+#EXTINF:0,USA: Comedy Central
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15249.ts
+#EXTINF:0,USA: Country Music Channel
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3859.ts
+#EXTINF:0,USA: CP24 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16821.ts
+#EXTINF:0,USA: CSPAN 2
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9319.ts
+#EXTINF:0,USA: CTV HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16820.ts
+#EXTINF:0,USA: Discovery Channel CA HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16823.ts
+#EXTINF:0,USA: Discovery Channel
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15248.ts
+#EXTINF:0,USA: Discovery Science
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9546.ts
+#EXTINF:0,USA: Disney XD HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16822.ts
+#EXTINF:0,USA: DTX
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9547.ts
+#EXTINF:0,USA: E! Network HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9321.ts
+#EXTINF:0,USA: E!
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8417.ts
+#EXTINF:0,USA: ESPN 2
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13230.ts
+#EXTINF:0,USA: Eurosport 1
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14079.ts
+#EXTINF:0,USA: Family CHRGD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15246.ts
+#EXTINF:0,USA: Family HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16825.ts
+#EXTINF:0,USA: Family Junior HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15247.ts
+#EXTINF:0,USA: Fight Sport
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8308.ts
+#EXTINF:0,USA: Food Network
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9337.ts
+#EXTINF:0,USA: Fox 43
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10174.ts
+#EXTINF:0,USA: FOX HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16824.ts
+#EXTINF:0,USA: Fox News HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16826.ts
+#EXTINF:0,USA: FOX Sport 1
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8681.ts
+#EXTINF:0,USA: Fox Sport 2
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9391.ts
+#EXTINF:0,USA: Fox Sports 506 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9528.ts
+#EXTINF:0,USA: FX HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16835.ts
+#EXTINF:0,USA: FXX HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16834.ts
+#EXTINF:0,USA: Global BC
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16833.ts
+#EXTINF:0,USA: Global HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16832.ts
+#EXTINF:0,USA: Hallmark Channel HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16831.ts
+#EXTINF:0,USA: HBO Comedy
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9831.ts
+#EXTINF:0,USA: HBO FAMILY
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8414.ts
+#EXTINF:0,USA: HBO HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8411.ts
+#EXTINF:0,USA: HBO ZONE
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8412.ts
+#EXTINF:0,USA: HGTV CA HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16830.ts
+#EXTINF:0,USA: HGTV HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16829.ts
+#EXTINF:0,USA: History HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15245.ts
+#EXTINF:0,USA: HLN HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16828.ts
+#EXTINF:0,USA: ID HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16827.ts
+#EXTINF:0,USA: LIFE TIME
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8687.ts
+#EXTINF:0,USA: Mello TV
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9502.ts
+#EXTINF:0,USA: MLB Network HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15239.ts
+#EXTINF:0,USA: Nasa TV HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9499.ts
+#EXTINF:0,USA: NBA TV
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8309.ts
+#EXTINF:0,USA: NBC HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8393.ts
+#EXTINF:0,USA: NBC Sports Network HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9523.ts
+#EXTINF:0,USA: NBC W HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16849.ts
+#EXTINF:0,USA: NBCSN Golf HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9526.ts
+#EXTINF:0,USA: NFL Network HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8693.ts
+#EXTINF:0,USA: NHL Network
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12479.ts
+#EXTINF:0,USA: Nick
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9333.ts
+#EXTINF:0,USA: OMNI 1 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16848.ts
+#EXTINF:0,USA: OMNI 2 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16847.ts
+#EXTINF:0,USA: OWN HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16846.ts
+#EXTINF:0,USA: PAC Mountain 1080P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14067.ts
+#EXTINF:0,USA: PAC Network National 720P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14068.ts
+#EXTINF:0,USA: PAC-12 Net. (Arizona) 1080P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14070.ts
+#EXTINF:0,USA: PAC-12 Net. (Arizona) 720P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14069.ts
+#EXTINF:0,USA: PAC-12 Net. (Bay Area) 1080P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14072.ts
+#EXTINF:0,USA: PAC-12 Net. (Bay Area) 720P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14071.ts
+#EXTINF:0,USA: PAC-12 Net. (Encore)
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14078.ts
+#EXTINF:0,USA: PAC-12 Net. (Los Angeles) 720P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14073.ts
+#EXTINF:0,USA: PAC-12 Net. (Oregon) 1080P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14075.ts
+#EXTINF:0,USA: PAC-12 Net. (Oregon) 720P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14074.ts
+#EXTINF:0,USA: PAC-12 Net. (Washington) 1080P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14077.ts
+#EXTINF:0,USA: PAC-12 Net. (Washington) 720P
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14076.ts
+#EXTINF:0,USA: PAC-12 Washington HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10143.ts
+#EXTINF:0,USA: PBS HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16845.ts
+#EXTINF:0,USA: RT America HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9498.ts
+#EXTINF:0,USA: RT Documentary
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9497.ts
+#EXTINF:0,USA: Slice HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16844.ts
+#EXTINF:0,USA: Spike HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13179.ts
+#EXTINF:0,USA: Sporstnet 360
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14036.ts
+#EXTINF:0,USA: Sporstnet East HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14035.ts
+#EXTINF:0,USA: Sporstnet Ontario HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14034.ts
+#EXTINF:0,USA: Sporstnet Pacific HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14033.ts
+#EXTINF:0,USA: Sportnet One HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14037.ts
+#EXTINF:0,USA: Sportsnet West HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13232.ts
+#EXTINF:0,USA: Sportsnet World
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/14032.ts
+#EXTINF:0,USA: Star Z Cinema
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9832.ts
+#EXTINF:0,USA: Starz Edge
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/10171.ts
+#EXTINF:0,USA: Starz Comedy
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16843.ts
+#EXTINF:0,USA: Starz Encore
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16842.ts
+#EXTINF:0,USA: Starz Kids & Family
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16841.ts
+#EXTINF:0,USA: Sundance HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16840.ts
+#EXTINF:0,USA: SYFY HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16839.ts
+#EXTINF:0,USA: TBN
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9542.ts
+#EXTINF:0,USA: TBS HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8685.ts
+#EXTINF:0,USA: Teletoon
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15251.ts
+#EXTINF:0,USA: The Florida Channel
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9495.ts
+#EXTINF:0,USA: TLC CA HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16838.ts
+#EXTINF:0,USA: TLC HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9480.ts
+#EXTINF:0,USA: TNT HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/13180.ts
+#EXTINF:0,USA: Travel Channel HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9476.ts
+#EXTINF:0,USA: Tru TV HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9330.ts
+#EXTINF:0,USA: Tsn Sport 1 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8293.ts
+#EXTINF:0,USA: Tsn Sport 2 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8292.ts
+#EXTINF:0,USA: Tsn Sport 3 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8291.ts
+#EXTINF:0,USA: Tsn Sport 4 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8290.ts
+#EXTINF:0,USA: Tsn Sport 5 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/12547.ts
+#EXTINF:0,USA: Tsn-Sport 5 HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8289.ts
+#EXTINF:0,USA: UALR TV
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/3865.ts
+#EXTINF:0,USA: USA Network HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9329.ts
+#EXTINF:0,USA: Velocity HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16837.ts
+#EXTINF:0,USA: WHDH
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9491.ts
+#EXTINF:0,USA: Willow HD
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9328.ts
+#EXTINF:0,USA: WWE Network
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8410.ts
+#EXTINF:0,USA: WWE
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9530.ts
+#EXTINF:0,USA: YTV HD CA
+http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16836.ts
